@@ -1,1 +1,13 @@
-Nikos Helm Chart
+apiVersion: v1
+entries:
+  demo-paas-ic:
+  - apiVersion: v1
+    appVersion: 1.16.0
+    created: "2022-02-22T12:56:42.831220064+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 060da6bb4abff58263d9233fc88a57520243d92f799b8d5fdf55a33da9f73f51
+    name: demo-paas-ic
+    urls:
+    - https://github.com/nikosPsar/charts/demo-paas-ic-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-02-22T12:56:42.83076052+02:00"
