@@ -8,6 +8,6 @@ entries:
     digest: fe63dc9cc8e8e215ee9a580d45ea680967006b5e5de7b35c171c368f4feb7351
     name: demo-paas-ic
     urls:
-    - https://github.com/nikosPsar/charts/blob/gh-pages/demo-paas-ic-0.1.0.tgz
+    - https://github.com/nikosPsar/charts/raw/gh-pages/demo-paas-ic-0.1.0.tgz
     version: 0.1.0
 generated: "2022-02-22T18:12:29.157044897+02:00"
