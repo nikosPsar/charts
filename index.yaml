@@ -3,16 +3,23 @@ entries:
   demo-paas-ic:
   - apiVersion: v1
     appVersion: 1.16.0
-    created: "2022-02-24T12:10:25.95787891+02:00"
+    created: "2022-04-05T15:20:36.729193938+03:00"
     description: A Helm chart for Kubernetes
-    digest: dd398849149adf3dd98b539d416f9410eac271bc567f50ad1bf78f6a9a119b88
+    digest: ecee3ad24e94945846ebebfb2d7e9542d7b08649b0e10cc7cbd5fc6a249afd4b
     name: demo-paas-ic
     type: application
     urls:
-<<<<<<< HEAD
-    - https://github.com/nikosPsar/charts/blob/gh-pages/demo-paas-ic-0.1.0.tgz
-=======
-    - https://github.com/nikosPsar/charts/raw/gh-pages/demo-paas-ic-0.1.0.tgz
->>>>>>> 65bc51e98858d6c36611ccb27290bdd20ed2813d
+    - demo-paas-ic-0.1.0.tgz
     version: 0.1.0
-generated: "2022-02-24T12:10:25.957242069+02:00"
+  test-piedge-controller:
+  - apiVersion: v1
+    appVersion: 1.16.0
+    created: "2022-04-05T15:20:36.729590521+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 0753088ced370f0c6382a359eff7ed9d7c16a878bf56695e4ec233d21ea0143c
+    name: test-piedge-controller
+    type: application
+    urls:
+    - test-piedge-controller-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-04-05T15:20:36.728601359+03:00"
