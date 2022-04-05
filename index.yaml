@@ -9,7 +9,7 @@ entries:
     name: demo-paas-ic
     type: application
     urls:
-    - https://github.com/nikosPsar/charts/raw/gh-pages/demo-paas-ic-0.1.0.tgz
+    - https://github.com/nikosPsar/charts/raw/gh-pages/demo-pa22as-ic-0.1.0.tgz
     version: 0.1.0
   test-piedge-controller:
   - apiVersion: v1
