@@ -22,4 +22,15 @@ entries:
     urls:
     - https://github.com/nikosPsar/charts/raw/gh-pages/test-piedge-controller-0.1.0.tgz
     version: 0.1.0
+  dataspace-connector:
+  - apiVersion: v1
+    appVersion: 1.16.0
+    created: "2023-01-01T15:20:36.729590521+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 0753088ced370f0c6382a359eff7ed9d7c16a878bf56695e4ec233d219afd4b
+    name: dataspace-connector
+    type: application
+    urls:
+    - https://github.com/nikosPsar/charts/raw/gh-pages/dataspace-connector-0.4.2.tgz
+    version: 0.4.2
 generated: "2022-04-05T15:20:36.728601359+03:00"
